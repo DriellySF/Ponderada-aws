@@ -8,6 +8,8 @@ Aplicação usando aws RDS(banco de dados), EC2 e o apache(gerenciador) para cri
 4. Conferir o local/caminho das pastas.
 
 
+O arquivo SamplePage.php faz a conexão com o banco de dados, usando as informações contidas no arquivo dbinfo.inc(servidor, banco de dados, usuário e senha) e possui o html e o css da página.
+
 ### URL:
 http://ec2-44-202-233-214.compute-1.amazonaws.com/SamplePage.php
 
