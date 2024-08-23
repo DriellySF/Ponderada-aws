@@ -12,6 +12,8 @@ Aplicação usando aws RDS(banco de dados), EC2 e o apache(gerenciador) para cri
 http://ec2-44-202-233-214.compute-1.amazonaws.com/SamplePage.php
 
 ### Página
+![Screenshot](image.png)
+
 
 
 
